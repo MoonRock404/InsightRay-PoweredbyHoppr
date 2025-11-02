@@ -1,0 +1,12 @@
+streamlit==1.39.0
+pandas==2.2.2
+matplotlib==3.9.0
+python-dotenv==1.0.1
+
+# HOPPR SDK
+hopprai==0.2.4
+
+# Imaging + DICOM
+Pillow==10.4.0
+pydicom==3.0.1
+numpy==2.1.2

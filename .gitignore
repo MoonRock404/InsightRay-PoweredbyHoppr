@@ -1,0 +1,13 @@
+# env & editor
+.vscode/
+.idea/
+__pycache__/
+venv/
+.env
+
+# streamlit cache
+.streamlit/secrets.toml
+.streamlit/state.json
+
+# os junk
+.DS_Store
